@@ -1,0 +1,501 @@
+Booking_ID,Date,Time,Vehicle_Type,Pickup_Location,Drop_Location,Booking_Status,Ride_Distance_km,Fare_INR,Customer_Rating,Payment_Method
+BK1001,2026-04-13,08:00,Premium,Ludhiana,Zirakpur,Completed,10.0,451.61,4.2,UPI
+BK1002,2026-06-29,06:39,Premium,Panchkula,Panchkula,Completed,25.6,864.92,3.7,Cash
+BK1003,2026-04-03,15:42,Mini,Chandigarh,Zirakpur,Cancelled,29.1,377.59,3.4,Cash
+BK1004,2026-01-15,17:28,Sedan,Zirakpur,Ludhiana,Completed,28.5,539.88,4.4,Cash
+BK1005,2026-04-17,18:11,Auto,Kharar,Kharar,Completed,20.2,243.09,4.2,Wallet
+BK1006,2026-03-13,19:01,SUV,Chandigarh,Ambala,Cancelled,19.2,477.6,4.5,Credit Card
+BK1007,2026-01-21,08:22,Mini,Ludhiana,Chandigarh,Completed,6.7,122.22,3.3,Cash
+BK1008,2026-04-13,22:25,Auto,Chandigarh,Ludhiana,Cancelled,27.6,275.41,3.5,Debit Card
+BK1009,2026-05-02,13:28,Mini,Kharar,Panchkula,Completed,11.0,179.26,4.7,Wallet
+BK1010,2026-03-16,15:25,Mini,Ambala,Kharar,Completed,18.4,283.24,4.3,UPI
+BK1011,2026-03-29,07:50,Sedan,Chandigarh,Mohali,Completed,11.4,231.37,4.4,Wallet
+BK1012,2026-04-27,14:06,SUV,Patiala,Ludhiana,Cancelled,6.4,238.51,3.6,UPI
+BK1013,2026-04-10,09:57,SUV,Zirakpur,Ambala,Completed,22.8,534.39,3.6,Debit Card
+BK1014,2026-04-14,18:10,Mini,Panchkula,Patiala,Cancelled,3.8,92.08,4.6,UPI
+BK1015,2026-06-01,09:24,Auto,Chandigarh,Patiala,Cancelled,26.7,314.91,4.7,UPI
+BK1016,2026-05-11,09:09,Sedan,Zirakpur,Chandigarh,Completed,12.5,262.24,3.5,Cash
+BK1017,2026-05-30,10:08,Mini,Mohali,Zirakpur,No Driver Found,2.0,40.0,3.4,Credit Card
+BK1018,2026-02-22,08:48,Auto,Zirakpur,Chandigarh,Completed,18.9,218.02,4.0,UPI
+BK1019,2026-01-02,08:47,Premium,Panchkula,Patiala,Completed,3.5,269.94,3.7,UPI
+BK1020,2026-03-29,09:17,Auto,Zirakpur,Mohali,Completed,11.1,138.69,3.6,Cash
+BK1021,2026-06-07,22:38,Auto,Kharar,Panchkula,Cancelled,25.3,293.4,3.4,Wallet
+BK1022,2026-02-07,10:11,SUV,Ludhiana,Panchkula,Completed,4.1,179.83,3.8,UPI
+BK1023,2026-05-10,22:54,SUV,Panchkula,Ambala,Completed,29.7,,3.5,UPI
+BK1024,2026-01-21,18:22,Mini,Ludhiana,Panchkula,Completed,2.1,107.46,3.5,Cash
+BK1025,2026-06-10,08:40,Sedan,Ambala,Ambala,Completed,10.1,241.69,4.3,UPI
+BK1026,2026-02-27,22:48,Sedan,Ludhiana,Ludhiana,Completed,26.4,441.67,4.1,Debit Card
+BK1027,2026-01-22,21:24,Sedan,Mohali,Ambala,Cancelled,12.4,264.98,4.4,Debit Card
+BK1028,2026-03-30,18:58,SUV,Kharar,Ludhiana,Cancelled,5.4,222.2,3.2,Cash
+BK1029,2026-02-18,22:35,Sedan,Ambala,Ambala,Completed,13.9,261.03,4.1,UPI
+BK1030,2026-02-28,17:40,Mini,Zirakpur,Patiala,No Driver Found,10.9,159.04,5.0,Debit Card
+BK1031,2026-06-19,17:08,Mini,Panchkula,Patiala,Completed,29.8,450.23,3.9,Cash
+BK1032,2026-01-15,12:27,SUV,Mohali,Zirakpur,No Driver Found,12.3,338.48,4.6,Debit Card
+BK1033,2026-06-24,19:30,Mini,Kharar,Ludhiana,Completed,28.0,426.37,4.5,Credit Card
+BK1034,2026-02-20,20:15,Auto,Ambala,Kharar,Completed,31.4,378.93,4.6,Debit Card
+BK1035,2026-04-18,10:34,Sedan,Ambala,Ludhiana,Completed,16.3,324.7,4.2,Cash
+BK1036,2026-02-24,17:24,Sedan,Mohali,Ambala,Cancelled,32.0,561.31,4.4,Cash
+BK1037,2026-03-05,09:52,SUV,Patiala,Ambala,Completed,14.5,354.99,4.5,Wallet
+BK1038,2026-05-11,21:56,Auto,Zirakpur,Kharar,Completed,33.8,383.17,4.4,Cash
+BK1039,2026-02-20,12:44,Sedan,Mohali,Chandigarh,Completed,4.9,178.93,3.5,Credit Card
+BK1040,2026-05-15,15:57,SUV,Ambala,Ambala,Completed,24.7,611.03,3.2,UPI
+BK1041,2026-01-21,12:13,SUV,Chandigarh,Zirakpur,Completed,18.3,469.86,3.2,Credit Card
+BK1042,2026-03-14,10:34,Sedan,Kharar,Panchkula,Completed,14.8,334.8,4.0,Cash
+BK1043,2026-06-16,16:10,Auto,Mohali,Panchkula,Cancelled,22.9,264.37,4.4,UPI
+BK1044,2026-01-18,20:11,Auto,Patiala,Mohali,Completed,25.2,276.51,3.5,UPI
+BK1045,2026-05-12,14:09,SUV,Ambala,Mohali,Completed,2.1,145.85,4.6,Credit Card
+BK1046,2026-03-30,17:16,Auto,Zirakpur,Panchkula,Completed,7.5,134.16,3.8,Debit Card
+BK1047,2026-03-01,11:06,Auto,Ludhiana,Panchkula,Cancelled,25.5,252.06,3.8,Cash
+BK1048,2026-01-14,19:12,SUV,Ambala,Patiala,Cancelled,24.0,587.12,3.6,UPI
+BK1049,2026-01-09,13:41,Auto,Zirakpur,Zirakpur,Completed,33.9,399.26,3.1,Credit Card
+BK1050,2026-03-31,14:49,SUV,Mohali,Kharar,Completed,27.1,635.26,4.2,UPI
+BK1051,2026-02-22,07:04,SUV,Zirakpur,Mohali,Completed,33.4,795.67,5.0,Cash
+BK1052,2026-05-10,10:37,SUV,Panchkula,Patiala,Completed,25.2,620.03,4.1,UPI
+BK1053,2026-03-25,13:47,Auto,Panchkula,Patiala,Cancelled,11.8,211.53,3.1,UPI
+BK1054,2026-04-02,18:00,Mini,Panchkula,Kharar,Completed,5.5,97.23,4.5,UPI
+BK1055,2026-04-21,22:06,Auto,Patiala,Patiala,Completed,27.8,338.77,3.2,UPI
+BK1056,2026-06-21,18:03,Auto,Patiala,Ludhiana,Completed,23.3,247.57,3.4,UPI
+BK1057,2026-01-08,09:05,Mini,Chandigarh,Zirakpur,Cancelled,3.6,52.82,4.0,UPI
+BK1058,2026-06-24,17:53,Auto,Patiala,Panchkula,Completed,13.9,128.11,4.2,Cash
+BK1059,2026-02-04,12:26,Mini,Ludhiana,Ambala,Completed,33.6,466.66,3.5,Cash
+BK1060,2026-03-22,15:25,Sedan,Mohali,Kharar,Completed,18.5,352.11,,UPI
+BK1061,2026-06-13,12:02,Auto,Ambala,Panchkula,Cancelled,16.3,191.02,4.5,Debit Card
+BK1062,2026-02-19,18:12,Mini,Ambala,Panchkula,Completed,17.1,210.86,4.6,UPI
+BK1063,2026-04-14,13:40,Auto,Chandigarh,Chandigarh,Completed,8.9,111.74,4.8,Cash
+BK1064,2026-05-12,12:00,Auto,Patiala,Ludhiana,Completed,14.2,182.1,5.0,UPI
+BK1065,2026-01-02,08:12,Sedan,Ludhiana,Kharar,Completed,14.2,302.83,4.5,UPI
+BK1066,2026-05-14,22:24,Mini,Zirakpur,Patiala,Completed,3.7,93.99,4.0,Cash
+BK1067,2026-02-23,06:37,Sedan,Chandigarh,Ambala,Completed,27.3,485.8,4.6,Cash
+BK1068,2026-04-16,11:57,SUV,Ludhiana,Kharar,Completed,15.7,404.6,4.4,Debit Card
+BK1069,2026-01-04,17:44,Premium,Zirakpur,Patiala,Completed,29.1,988.53,4.4,Cash
+BK1070,2026-02-23,18:46,SUV,Ludhiana,Panchkula,Completed,30.1,676.54,4.2,Wallet
+BK1071,2026-05-26,21:53,Sedan,Zirakpur,Ambala,Cancelled,9.0,187.52,3.6,UPI
+BK1072,2026-02-13,16:59,SUV,Kharar,Patiala,Completed,23.7,561.69,3.5,UPI
+BK1073,2026-06-11,10:35,Sedan,Ludhiana,Zirakpur,No Driver Found,17.6,347.57,4.0,UPI
+BK1074,2026-01-14,08:18,Auto,Ambala,Patiala,Completed,31.0,324.03,4.2,UPI
+BK1075,2026-04-05,20:40,Mini,Panchkula,Chandigarh,Completed,9.1,162.59,3.7,Cash
+BK1076,2026-02-17,22:13,Auto,Patiala,Ludhiana,Completed,24.4,288.12,4.3,Credit Card
+BK1077,2026-01-15,20:30,Sedan,Zirakpur,Panchkula,Completed,22.1,384.14,5.0,UPI
+BK1078,2026-02-09,06:52,Premium,Kharar,Patiala,Completed,11.7,465.85,3.1,Wallet
+BK1079,2026-03-23,08:15,Sedan,Ludhiana,Ludhiana,Completed,6.5,142.3,4.4,Debit Card
+BK1080,2026-04-21,16:11,SUV,Ambala,Mohali,Completed,23.5,542.07,4.1,UPI
+BK1081,2026-02-22,15:31,Premium,Panchkula,Mohali,Cancelled,26.4,871.69,4.3,UPI
+BK1082,2026-01-24,21:07,Mini,Zirakpur,Ludhiana,Completed,12.4,157.31,3.9,UPI
+BK1083,2026-06-03,11:11,Premium,Ludhiana,Ludhiana,Cancelled,23.3,728.78,4.0,UPI
+BK1084,2026-05-04,13:57,SUV,Ludhiana,Chandigarh,Completed,15.0,413.32,4.2,UPI
+BK1085,2026-02-10,09:25,Mini,Zirakpur,Zirakpur,Completed,25.5,382.22,3.9,Cash
+BK1086,2026-06-06,13:57,Sedan,Chandigarh,Panchkula,Completed,8.6,187.33,3.3,UPI
+BK1087,2026-01-15,10:40,SUV,Chandigarh,Kharar,Completed,31.4,711.3,4.0,UPI
+BK1088,2026-02-14,09:26,Mini,Ambala,Chandigarh,Completed,11.5,213.14,3.3,Wallet
+BK1089,2026-03-06,22:08,SUV,Panchkula,Zirakpur,Completed,14.1,353.36,4.5,Credit Card
+BK1090,2026-03-30,06:52,Sedan,Zirakpur,Ludhiana,Completed,3.9,94.42,3.1,Wallet
+BK1091,2026-03-12,18:27,SUV,Ambala,Kharar,Completed,5.7,231.69,4.7,UPI
+BK1092,2026-01-09,21:28,Mini,Ambala,Ludhiana,Completed,19.0,278.23,4.3,UPI
+BK1093,2026-03-29,18:45,Auto,Mohali,Ludhiana,No Driver Found,10.8,174.62,4.3,Cash
+BK1094,2026-05-09,08:05,Premium,Ludhiana,Mohali,Cancelled,29.6,905.29,2.9,UPI
+BK1095,2026-05-16,10:46,Premium,Patiala,Mohali,Completed,2.5,164.98,3.9,UPI
+BK1096,2026-03-04,07:09,Auto,Ludhiana,Kharar,Cancelled,14.5,185.36,4.7,Credit Card
+BK1097,2026-05-19,18:04,Mini,Chandigarh,Chandigarh,Completed,13.1,217.64,3.8,Credit Card
+BK1098,2026-03-22,06:53,Auto,Panchkula,Mohali,Completed,2.6,87.17,3.5,Cash
+BK1099,2026-05-16,06:17,Mini,Ludhiana,Panchkula,Cancelled,6.1,127.57,3.7,Cash
+BK1100,2026-06-12,20:48,Mini,Zirakpur,Ludhiana,Completed,15.7,242.52,4.1,Cash
+BK1101,2026-06-12,16:20,Sedan,Ambala,Ambala,Completed,18.3,334.76,3.6,UPI
+BK1102,2026-02-02,22:12,Sedan,Zirakpur,Patiala,Completed,15.3,339.27,4.8,UPI
+BK1103,2026-05-03,06:33,Auto,Mohali,Kharar,Completed,19.5,207.42,4.1,UPI
+BK1104,2026-01-05,14:34,SUV,Panchkula,Kharar,Completed,21.6,540.98,3.8,UPI
+BK1105,2026-02-10,06:20,Sedan,Ambala,Mohali,Cancelled,2.3,79.8,3.4,Wallet
+BK1106,2026-01-28,21:54,Sedan,Zirakpur,Chandigarh,Completed,17.3,342.87,4.4,Cash
+BK1107,2026-05-15,11:27,Premium,Chandigarh,Ludhiana,Completed,33.8,1050.47,4.4,Credit Card
+BK1108,2026-03-13,22:04,Sedan,Patiala,Panchkula,No Driver Found,19.1,375.1,3.7,UPI
+BK1109,2026-01-12,10:37,Sedan,Mohali,Chandigarh,Completed,24.4,438.8,2.9,UPI
+BK1110,2026-06-11,08:52,Mini,Panchkula,Zirakpur,Completed,12.3,241.22,4.3,UPI
+BK1111,2026-02-02,10:52,Auto,Mohali,Zirakpur,Completed,27.5,307.97,4.0,UPI
+BK1112,2026-02-17,10:09,SUV,Chandigarh,Ambala,Completed,27.5,660.62,4.3,UPI
+BK1113,2026-05-31,15:18,Mini,Panchkula,Mohali,Cancelled,19.2,260.91,,Debit Card
+BK1114,2026-03-03,22:20,Mini,Mohali,Mohali,Completed,34.2,453.2,4.1,Credit Card
+BK1115,2026-02-06,19:08,SUV,Kharar,Mohali,Cancelled,6.1,224.64,3.8,Cash
+BK1116,2026-04-09,19:00,SUV,Chandigarh,Ambala,Completed,2.6,113.82,3.5,Cash
+BK1117,2026-06-21,18:12,Sedan,Chandigarh,Zirakpur,Cancelled,27.4,445.56,3.9,Wallet
+BK1118,2026-04-14,09:00,Premium,Chandigarh,Chandigarh,Completed,28.6,945.8,4.2,UPI
+BK1119,2026-02-04,22:39,Mini,Kharar,Ambala,Cancelled,6.0,118.35,4.1,UPI
+BK1120,2026-04-11,07:27,Sedan,Kharar,Ambala,Completed,10.8,217.18,5.0,UPI
+BK1121,2026-06-24,13:38,Premium,Zirakpur,Chandigarh,No Driver Found,2.6,184.38,4.4,Debit Card
+BK1122,2026-05-11,07:53,Sedan,Ambala,Mohali,Completed,11.7,228.04,4.0,Wallet
+BK1123,2026-01-01,08:58,SUV,Patiala,Panchkula,Completed,27.5,652.81,3.7,UPI
+BK1124,2026-01-05,17:00,Sedan,Mohali,Chandigarh,Cancelled,19.1,367.63,4.2,Debit Card
+BK1125,2026-05-22,17:04,Sedan,Zirakpur,Zirakpur,Completed,13.5,220.2,3.6,Debit Card
+BK1126,2026-04-13,22:47,Premium,Mohali,Kharar,Cancelled,14.3,565.72,4.2,UPI
+BK1127,2026-01-27,20:22,Sedan,Patiala,Ludhiana,Completed,2.0,133.54,4.4,UPI
+BK1128,2026-05-17,20:36,Auto,Ambala,Kharar,Completed,11.9,100.73,4.0,Cash
+BK1129,2026-01-15,19:01,Mini,Kharar,Patiala,Completed,23.3,356.75,3.8,Wallet
+BK1130,2026-03-31,16:50,Mini,Ambala,Patiala,Completed,34.1,485.58,2.9,UPI
+BK1131,2026-02-11,12:37,Mini,Kharar,Ambala,Completed,30.0,410.01,4.7,Debit Card
+BK1132,2026-05-04,07:37,SUV,Patiala,Ludhiana,Completed,2.8,123.57,4.3,UPI
+BK1133,2026-06-28,07:17,Sedan,Ambala,Kharar,Completed,31.7,570.88,4.3,Credit Card
+BK1134,2026-03-04,20:26,Auto,Zirakpur,Panchkula,Completed,27.8,311.97,3.2,Cash
+BK1135,2026-04-06,07:51,Sedan,Panchkula,Mohali,Completed,27.8,500.72,4.9,Cash
+BK1136,2026-02-21,11:32,Premium,Zirakpur,Zirakpur,Completed,17.1,664.28,3.8,Debit Card
+BK1137,2026-04-06,20:59,Mini,Mohali,Patiala,Completed,15.1,237.5,3.9,Debit Card
+BK1138,2026-05-12,15:50,Auto,Zirakpur,Panchkula,Completed,12.0,137.08,3.5,Debit Card
+BK1139,2026-05-31,22:04,Auto,Patiala,Zirakpur,Completed,4.2,73.61,3.1,
+BK1140,2026-05-23,09:09,Auto,Chandigarh,Zirakpur,Cancelled,9.5,115.26,4.7,Credit Card
+BK1141,2026-06-20,22:09,Auto,Mohali,Mohali,Cancelled,10.1,151.84,4.8,UPI
+BK1142,2026-01-29,22:59,Auto,Ambala,Ludhiana,Completed,18.0,199.85,4.0,Cash
+BK1143,2026-02-05,10:33,SUV,Mohali,Ambala,Completed,26.7,622.18,3.7,Cash
+BK1144,2026-01-13,11:52,Mini,Panchkula,Kharar,Cancelled,17.6,229.09,3.9,Cash
+BK1145,2026-06-09,07:12,Mini,Kharar,Mohali,Completed,3.9,93.5,3.9,Cash
+BK1146,2026-03-12,16:42,Premium,Ambala,Panchkula,Completed,33.6,1075.22,3.4,Wallet
+BK1147,2026-03-27,21:10,SUV,Ludhiana,Ambala,Completed,33.1,694.88,3.9,UPI
+BK1148,2026-01-28,20:56,Auto,Mohali,Panchkula,Cancelled,27.9,325.49,4.2,Credit Card
+BK1149,2026-03-07,21:30,Sedan,Ambala,Ambala,Completed,34.7,589.36,4.7,UPI
+BK1150,2026-06-19,16:53,Mini,Ambala,Ludhiana,Completed,20.0,270.88,4.1,UPI
+BK1151,2026-02-14,21:07,Mini,Ambala,Patiala,No Driver Found,33.8,506.32,3.2,UPI
+BK1152,2026-03-03,09:39,SUV,Kharar,Panchkula,Cancelled,4.5,213.96,4.3,Wallet
+BK1153,2026-05-14,09:55,Sedan,Ludhiana,Mohali,Completed,14.1,254.09,4.0,Debit Card
+BK1154,2026-01-28,08:31,Mini,Patiala,Ambala,Completed,9.4,183.76,4.9,Wallet
+BK1155,2026-01-28,08:26,Sedan,Zirakpur,Ambala,Cancelled,8.5,228.61,4.9,Wallet
+BK1156,2026-04-18,10:17,Mini,Ambala,Zirakpur,Completed,6.6,132.5,4.9,UPI
+BK1157,2026-02-13,15:21,SUV,Chandigarh,Zirakpur,Completed,22.5,559.04,3.8,UPI
+BK1158,2026-03-25,11:00,Sedan,Patiala,Chandigarh,Completed,27.8,495.46,5.0,Credit Card
+BK1159,2026-01-30,10:40,Auto,Panchkula,Panchkula,Cancelled,21.1,198.85,4.3,Cash
+BK1160,2026-03-16,17:25,Sedan,Kharar,Zirakpur,Completed,6.8,167.33,5.0,Cash
+BK1161,2026-05-08,19:33,Sedan,Mohali,Chandigarh,Cancelled,28.8,496.03,3.8,UPI
+BK1162,2026-04-02,22:13,Mini,Kharar,Patiala,Cancelled,23.0,361.75,3.9,Cash
+BK1163,2026-05-09,18:26,Mini,Mohali,Patiala,Completed,14.8,235.94,4.3,Cash
+BK1164,2026-05-01,14:25,Sedan,Kharar,Zirakpur,Completed,24.2,425.56,4.2,UPI
+BK1165,2026-01-27,20:56,Sedan,Mohali,Panchkula,Completed,10.6,226.75,4.8,Cash
+BK1166,2026-05-01,20:55,SUV,Ambala,Ambala,Completed,13.4,393.58,4.0,Cash
+BK1167,2026-04-26,16:47,Sedan,Zirakpur,Kharar,Completed,32.3,549.89,4.7,Cash
+BK1168,2026-01-03,22:25,SUV,Mohali,Ludhiana,Completed,11.6,314.55,4.5,UPI
+BK1169,2026-04-13,09:00,Auto,Ludhiana,Panchkula,Completed,17.5,208.11,4.0,Credit Card
+BK1170,2026-06-04,13:48,Auto,Mohali,Ludhiana,Cancelled,31.4,377.52,4.5,UPI
+BK1171,2026-05-17,08:51,Mini,Chandigarh,Mohali,Completed,25.4,367.2,3.8,UPI
+BK1172,2026-03-03,20:46,Sedan,Mohali,Patiala,Completed,4.1,132.61,5.0,Debit Card
+BK1173,2026-06-14,19:25,Mini,Chandigarh,Zirakpur,Completed,6.9,137.59,2.6,Cash
+BK1174,2026-02-20,19:23,Mini,Panchkula,Zirakpur,Completed,2.3,63.61,4.5,UPI
+BK1175,2026-06-21,07:44,Premium,Ambala,Ludhiana,Completed,22.8,763.55,3.1,Credit Card
+BK1176,2026-06-01,19:58,Mini,Chandigarh,Ambala,Completed,16.8,235.02,4.0,Cash
+BK1177,2026-02-28,12:02,Sedan,Zirakpur,Ludhiana,Completed,6.4,158.63,4.1,Debit Card
+BK1178,2026-04-28,20:22,SUV,Patiala,Mohali,Completed,33.6,805.65,4.9,Credit Card
+BK1179,2026-06-09,19:42,SUV,Ambala,Ambala,Completed,19.5,463.05,3.7,Credit Card
+BK1180,2026-04-06,20:59,SUV,Chandigarh,Mohali,Completed,10.0,282.78,4.8,Cash
+BK1181,2026-06-29,18:17,Mini,Ambala,Kharar,Completed,18.5,240.64,3.5,UPI
+BK1182,2026-04-23,11:34,Sedan,Ludhiana,Patiala,No Driver Found,24.4,399.23,4.8,UPI
+BK1183,2026-03-03,20:24,Sedan,Ambala,Zirakpur,Completed,4.5,132.83,3.8,Cash
+BK1184,2026-02-21,10:27,Mini,Ambala,Zirakpur,Completed,11.1,167.76,4.1,Cash
+BK1185,2026-01-12,15:38,Sedan,Panchkula,Kharar,Completed,28.6,,3.9,Cash
+BK1186,2026-02-08,22:38,Mini,Zirakpur,Chandigarh,Completed,17.2,249.33,4.8,UPI
+BK1187,2026-05-10,17:24,Mini,Kharar,Patiala,Completed,20.0,322.23,4.7,UPI
+BK1188,2026-05-11,22:12,Sedan,Kharar,Ambala,Completed,16.3,338.7,4.3,Cash
+BK1189,2026-04-23,09:09,Mini,Chandigarh,Kharar,Completed,3.4,85.58,3.5,UPI
+BK1190,2026-04-11,08:40,SUV,Ambala,Ambala,Completed,7.5,302.75,3.7,Credit Card
+BK1191,2026-04-23,18:17,SUV,Chandigarh,Ludhiana,Completed,16.7,440.71,3.5,UPI
+BK1192,2026-03-22,20:35,Auto,Panchkula,Panchkula,Completed,8.9,166.83,2.9,Cash
+BK1193,2026-04-23,20:21,Mini,Panchkula,Zirakpur,Completed,3.6,128.11,4.8,Wallet
+BK1194,2026-01-02,07:46,Mini,Mohali,Ambala,No Driver Found,29.8,417.97,3.9,UPI
+BK1195,2026-05-10,13:39,Mini,Ludhiana,Mohali,Completed,34.4,481.58,3.9,Cash
+BK1196,2026-02-23,22:43,SUV,Panchkula,Ambala,Completed,28.2,679.6,4.9,UPI
+BK1197,2026-03-28,15:40,SUV,Mohali,Panchkula,Completed,30.2,675.39,3.8,Credit Card
+BK1198,2026-05-09,10:05,Mini,Zirakpur,Patiala,Completed,10.0,171.43,3.6,Cash
+BK1199,2026-05-27,07:58,Premium,Chandigarh,Zirakpur,Completed,33.7,1100.46,4.0,Cash
+BK1200,2026-05-06,18:05,Mini,Patiala,Ludhiana,Completed,8.5,190.15,3.5,Cash
+BK1201,2026-05-10,10:56,Sedan,Zirakpur,Kharar,Completed,33.4,552.98,4.3,Debit Card
+BK1202,2026-02-22,06:52,SUV,Panchkula,Ludhiana,Completed,34.8,809.22,3.9,UPI
+BK1203,2026-06-21,11:05,Auto,Zirakpur,Panchkula,Completed,25.5,298.77,3.8,UPI
+BK1204,2026-06-09,21:03,SUV,Zirakpur,Zirakpur,Completed,34.4,785.05,3.8,Debit Card
+BK1205,2026-06-09,16:29,Auto,Ludhiana,Ambala,Completed,20.8,256.9,4.0,Cash
+BK1206,2026-03-09,14:54,Sedan,Ludhiana,Patiala,Completed,10.6,234.45,4.1,Debit Card
+BK1207,2026-05-03,08:50,Auto,Ludhiana,Chandigarh,Completed,16.4,217.54,3.8,Cash
+BK1208,2026-05-25,13:36,Mini,Zirakpur,Patiala,Cancelled,21.6,345.24,3.9,Debit Card
+BK1209,2026-02-07,09:23,Auto,Panchkula,Chandigarh,Completed,4.4,103.6,4.1,Cash
+BK1210,2026-01-24,11:01,Sedan,Patiala,Mohali,Completed,22.5,415.26,4.0,Credit Card
+BK1211,2026-03-10,16:03,Auto,Ambala,Patiala,Completed,34.4,430.62,4.1,Wallet
+BK1212,2026-04-26,20:05,Sedan,Zirakpur,Zirakpur,No Driver Found,8.3,222.25,3.7,Cash
+BK1213,2026-04-08,22:29,SUV,Mohali,Chandigarh,Completed,28.2,661.69,4.7,UPI
+BK1214,2026-05-19,11:50,Sedan,Panchkula,Kharar,Completed,32.0,519.57,4.2,UPI
+BK1215,2026-05-24,07:14,Auto,Zirakpur,Zirakpur,Completed,33.1,346.3,3.8,UPI
+BK1216,2026-04-07,16:07,Mini,Patiala,Kharar,Completed,33.7,477.73,4.3,UPI
+BK1217,2026-05-04,18:43,Mini,Ambala,Patiala,Completed,19.2,264.64,4.1,UPI
+BK1218,2026-03-11,10:05,Mini,Ludhiana,Kharar,Completed,34.3,436.4,3.1,Cash
+BK1219,2026-04-03,09:18,Mini,Panchkula,Chandigarh,Cancelled,27.0,355.05,4.3,Cash
+BK1220,2026-01-03,06:19,Auto,Kharar,Zirakpur,Completed,7.3,95.82,3.5,Cash
+BK1221,2026-05-28,22:11,Mini,Ambala,Ambala,Completed,17.7,283.67,4.6,Credit Card
+BK1222,2026-06-13,20:00,Premium,Mohali,Panchkula,No Driver Found,25.7,845.68,4.0,UPI
+BK1223,2026-05-27,19:37,Sedan,Zirakpur,Chandigarh,Completed,10.2,188.69,4.5,UPI
+BK1224,2026-03-31,10:10,Mini,Patiala,Chandigarh,Completed,23.1,327.98,3.8,UPI
+BK1225,2026-05-27,09:12,Auto,Kharar,Ambala,Completed,24.0,285.56,4.1,Cash
+BK1226,2026-05-28,16:02,SUV,Patiala,Zirakpur,Completed,7.4,236.02,4.8,UPI
+BK1227,2026-04-06,06:05,Sedan,Kharar,Zirakpur,Completed,20.6,407.9,,UPI
+BK1228,2026-02-21,15:04,SUV,Panchkula,Ludhiana,Cancelled,27.5,639.48,3.8,Cash
+BK1229,2026-06-10,15:43,SUV,Kharar,Patiala,Completed,18.5,497.71,4.5,Debit Card
+BK1230,2026-06-17,07:12,Mini,Mohali,Kharar,Completed,2.4,93.72,4.4,UPI
+BK1231,2026-05-08,13:01,Premium,Mohali,Patiala,Completed,2.3,217.57,3.8,Credit Card
+BK1232,2026-02-08,06:36,Premium,Chandigarh,Ambala,Cancelled,13.8,488.94,3.0,Credit Card
+BK1233,2026-03-23,14:16,SUV,Mohali,Patiala,No Driver Found,32.6,754.46,3.8,Debit Card
+BK1234,2026-04-14,14:10,Mini,Ambala,Ambala,Cancelled,9.5,162.68,4.5,Wallet
+BK1235,2026-05-09,20:23,SUV,Kharar,Zirakpur,Completed,22.9,522.45,3.7,UPI
+BK1236,2026-01-11,11:54,Mini,Mohali,Kharar,Completed,9.3,189.23,4.1,UPI
+BK1237,2026-06-27,08:29,Mini,Panchkula,Patiala,Completed,12.6,180.76,3.7,Debit Card
+BK1238,2026-05-31,22:04,Sedan,Patiala,Chandigarh,Completed,30.0,504.76,3.0,Cash
+BK1239,2026-06-08,17:49,Sedan,Ludhiana,Mohali,Completed,26.1,436.17,3.7,Cash
+BK1240,2026-02-11,19:52,Auto,Patiala,Ludhiana,Completed,5.1,108.53,4.5,Credit Card
+BK1241,2026-04-09,16:08,SUV,Chandigarh,Panchkula,Completed,16.1,383.85,2.8,Credit Card
+BK1242,2026-01-07,07:11,Auto,Patiala,Chandigarh,Completed,3.0,85.45,4.2,Wallet
+BK1243,2026-05-24,08:34,Sedan,Kharar,Zirakpur,Completed,17.9,364.61,3.4,Wallet
+BK1244,2026-03-31,06:39,Sedan,Chandigarh,Panchkula,Completed,23.9,441.93,4.4,Credit Card
+BK1245,2026-04-22,13:10,Sedan,Kharar,Mohali,Completed,5.9,176.32,4.5,UPI
+BK1246,2026-03-01,14:36,Premium,Panchkula,Mohali,Completed,11.5,470.99,4.0,Debit Card
+BK1247,2026-04-23,19:59,Mini,Chandigarh,Kharar,Completed,15.1,207.46,4.0,UPI
+BK1248,2026-01-02,08:20,Auto,Zirakpur,Panchkula,Completed,32.3,398.87,3.7,UPI
+BK1249,2026-05-09,10:04,SUV,Ambala,Kharar,Completed,34.8,784.5,3.4,Debit Card
+BK1250,2026-02-17,19:25,Sedan,Ambala,Chandigarh,Completed,3.5,120.84,,UPI
+BK1251,2026-05-20,09:24,SUV,Kharar,Ambala,Completed,27.1,633.68,3.6,UPI
+BK1252,2026-02-06,18:41,Sedan,Patiala,Ambala,No Driver Found,14.3,296.79,5.0,UPI
+BK1253,2026-06-09,13:07,Auto,Ludhiana,Ambala,Completed,15.0,176.55,3.6,Debit Card
+BK1254,2026-01-09,12:39,Premium,Ludhiana,Panchkula,Completed,26.9,884.87,4.4,Cash
+BK1255,2026-04-09,19:31,Sedan,Zirakpur,Ambala,Completed,32.3,523.62,3.5,Credit Card
+BK1256,2026-05-27,11:32,Sedan,Chandigarh,Chandigarh,Completed,33.4,600.12,4.4,UPI
+BK1257,2026-02-17,20:32,SUV,Zirakpur,Kharar,Completed,21.0,536.77,3.9,Debit Card
+BK1258,2026-05-11,22:32,Premium,Zirakpur,Panchkula,Completed,13.8,509.09,3.9,Debit Card
+BK1259,2026-05-28,20:54,Mini,Patiala,Kharar,Cancelled,28.0,374.27,4.4,UPI
+BK1260,2026-06-01,07:13,SUV,Ludhiana,Panchkula,Completed,10.3,322.12,3.8,Cash
+BK1261,2026-02-23,13:39,SUV,Chandigarh,Kharar,Cancelled,20.6,494.32,3.3,UPI
+BK1262,2026-04-30,12:50,Auto,Panchkula,Mohali,Completed,13.8,181.13,4.5,
+BK1263,2026-06-10,11:05,Mini,Patiala,Kharar,Completed,23.7,363.43,3.5,Credit Card
+BK1264,2026-06-01,08:06,SUV,Zirakpur,Ambala,Cancelled,9.9,277.72,4.4,Wallet
+BK1265,2026-04-26,13:41,Premium,Zirakpur,Mohali,Completed,8.3,371.62,4.6,UPI
+BK1266,2026-03-16,20:46,Mini,Panchkula,Kharar,Completed,32.3,445.49,3.9,Debit Card
+BK1267,2026-04-23,06:51,Mini,Zirakpur,Panchkula,Completed,5.4,112.37,4.8,Debit Card
+BK1268,2026-06-13,12:26,Premium,Zirakpur,Panchkula,Completed,18.7,641.01,4.4,Credit Card
+BK1269,2026-06-15,09:28,Mini,Zirakpur,Ludhiana,Completed,9.3,191.97,3.7,Wallet
+BK1270,2026-04-14,11:56,Auto,Ambala,Panchkula,Completed,3.3,58.06,4.9,UPI
+BK1271,2026-03-25,06:36,Sedan,Patiala,Zirakpur,Completed,3.2,72.7,3.5,UPI
+BK1272,2026-04-22,06:03,Mini,Mohali,Chandigarh,Completed,7.8,159.61,3.9,Credit Card
+BK1273,2026-04-09,07:09,Auto,Patiala,Panchkula,Completed,30.6,315.97,4.0,Credit Card
+BK1274,2026-06-02,10:58,Sedan,Panchkula,Mohali,Completed,11.3,256.8,4.4,Cash
+BK1275,2026-04-03,15:32,Sedan,Zirakpur,Ludhiana,Completed,33.4,604.37,4.7,UPI
+BK1276,2026-05-26,11:12,Sedan,Patiala,Panchkula,Completed,21.2,403.74,4.7,Cash
+BK1277,2026-05-08,20:35,SUV,Ambala,Zirakpur,Completed,16.4,454.79,4.2,UPI
+BK1278,2026-04-20,18:23,Mini,Ludhiana,Ambala,Completed,21.1,353.7,3.9,Cash
+BK1279,2026-03-23,20:28,Sedan,Panchkula,Mohali,Cancelled,19.1,380.67,3.1,Credit Card
+BK1280,2026-02-23,13:04,Premium,Kharar,Zirakpur,Completed,27.0,894.26,3.4,Credit Card
+BK1281,2026-06-12,20:03,Sedan,Patiala,Ambala,Completed,11.3,280.35,5.0,UPI
+BK1282,2026-06-18,17:44,SUV,Kharar,Patiala,Completed,13.7,417.87,3.1,Cash
+BK1283,2026-06-10,07:26,Sedan,Zirakpur,Patiala,Completed,31.5,586.72,3.7,UPI
+BK1284,2026-03-09,09:35,Auto,Ambala,Mohali,Completed,33.2,359.7,4.7,UPI
+BK1285,2026-02-02,16:26,Mini,Ambala,Kharar,Cancelled,31.5,394.15,4.2,Debit Card
+BK1286,2026-05-22,10:19,Premium,Patiala,Chandigarh,Completed,15.8,558.57,4.6,Wallet
+BK1287,2026-01-21,16:09,Sedan,Panchkula,Ludhiana,Cancelled,27.8,504.59,4.4,UPI
+BK1288,2026-02-17,13:37,Mini,Panchkula,Chandigarh,Cancelled,17.7,266.38,4.9,Debit Card
+BK1289,2026-05-28,11:07,Mini,Ambala,Zirakpur,Cancelled,18.4,265.64,4.3,Debit Card
+BK1290,2026-05-08,20:25,Mini,Panchkula,Ambala,Cancelled,8.8,169.61,4.5,Debit Card
+BK1291,2026-05-16,19:42,Sedan,Ambala,Chandigarh,Completed,21.5,355.73,3.7,UPI
+BK1292,2026-05-15,17:25,Sedan,Patiala,Ambala,Completed,8.1,195.03,4.4,Wallet
+BK1293,2026-05-25,18:39,Auto,Mohali,Ambala,Completed,12.9,196.96,3.9,UPI
+BK1294,2026-05-08,06:46,Sedan,Ambala,Zirakpur,Completed,30.2,536.73,3.9,UPI
+BK1295,2026-02-02,13:59,Mini,Kharar,Zirakpur,Completed,8.8,172.9,4.6,UPI
+BK1296,2026-06-25,16:11,SUV,Panchkula,Zirakpur,Completed,4.3,225.93,4.6,Cash
+BK1297,2026-04-25,17:35,SUV,Ambala,Chandigarh,Completed,4.3,184.35,5.0,UPI
+BK1298,2026-04-29,21:03,Mini,Ambala,Patiala,Completed,33.0,429.67,5.0,UPI
+BK1299,2026-01-22,10:55,Mini,Patiala,Zirakpur,Completed,18.7,,4.6,UPI
+BK1300,2026-06-07,10:07,Mini,Panchkula,Ludhiana,Completed,15.5,265.28,3.2,Debit Card
+BK1301,2026-02-07,15:48,Auto,Mohali,Chandigarh,Completed,28.8,341.96,5.0,Debit Card
+BK1302,2026-04-19,14:53,SUV,Patiala,Zirakpur,Cancelled,29.6,687.99,4.6,UPI
+BK1303,2026-02-20,19:39,Sedan,Mohali,Panchkula,Completed,13.0,265.03,3.7,Debit Card
+BK1304,2026-01-08,14:21,Auto,Ludhiana,Ambala,Completed,24.9,257.08,4.5,Debit Card
+BK1305,2026-01-27,16:22,Auto,Patiala,Ludhiana,Completed,27.4,341.82,3.5,Debit Card
+BK1306,2026-01-27,06:45,SUV,Panchkula,Zirakpur,Completed,23.6,598.94,4.4,UPI
+BK1307,2026-01-21,10:20,Auto,Chandigarh,Mohali,Completed,7.0,77.21,3.4,Credit Card
+BK1308,2026-01-30,19:35,Mini,Panchkula,Ambala,Completed,30.9,442.49,3.7,Wallet
+BK1309,2026-04-07,06:53,Mini,Panchkula,Ambala,Completed,19.8,297.7,4.5,Credit Card
+BK1310,2026-01-28,13:14,Sedan,Mohali,Zirakpur,Completed,11.3,213.95,4.7,UPI
+BK1311,2026-04-21,20:08,Mini,Mohali,Patiala,Completed,16.0,211.85,4.3,Cash
+BK1312,2026-03-02,14:09,Sedan,Panchkula,Kharar,Completed,3.2,127.34,3.9,Credit Card
+BK1313,2026-02-17,14:34,Premium,Panchkula,Patiala,Completed,6.2,293.66,2.9,Cash
+BK1314,2026-05-27,16:37,Mini,Panchkula,Zirakpur,Completed,27.3,423.1,4.0,UPI
+BK1315,2026-01-04,07:06,Mini,Mohali,Ambala,Completed,2.0,97.81,4.4,UPI
+BK1316,2026-02-04,07:26,Sedan,Panchkula,Ludhiana,No Driver Found,15.7,317.34,3.9,Debit Card
+BK1317,2026-02-18,22:42,Premium,Panchkula,Mohali,Completed,19.2,680.68,4.1,Debit Card
+BK1318,2026-01-17,17:58,Sedan,Ludhiana,Ludhiana,Completed,3.8,160.27,4.0,UPI
+BK1319,2026-06-21,12:51,Sedan,Zirakpur,Ludhiana,Completed,34.1,602.66,3.9,Wallet
+BK1320,2026-06-07,11:52,Mini,Chandigarh,Ambala,Completed,9.5,176.49,4.1,UPI
+BK1321,2026-02-15,06:48,Mini,Kharar,Patiala,Completed,12.0,169.49,4.0,Credit Card
+BK1322,2026-04-27,16:21,Premium,Chandigarh,Mohali,Completed,12.0,542.55,4.9,Debit Card
+BK1323,2026-01-06,22:06,Premium,Zirakpur,Chandigarh,No Driver Found,9.6,371.22,2.9,Debit Card
+BK1324,2026-04-09,22:19,Mini,Kharar,Panchkula,Completed,2.0,66.19,3.8,Wallet
+BK1325,2026-05-04,14:48,Premium,Patiala,Ambala,Completed,26.1,819.43,3.6,UPI
+BK1326,2026-02-06,13:48,SUV,Panchkula,Zirakpur,Completed,33.9,791.47,4.2,Debit Card
+BK1327,2026-01-24,12:00,Auto,Zirakpur,Chandigarh,Completed,9.4,137.78,4.1,UPI
+BK1328,2026-04-03,18:29,Sedan,Ludhiana,Panchkula,Completed,23.9,447.63,5.0,Credit Card
+BK1329,2026-02-15,22:44,Sedan,Patiala,Zirakpur,Completed,26.5,424.02,5.0,Credit Card
+BK1330,2026-04-05,21:39,Sedan,Panchkula,Ludhiana,Completed,30.0,547.82,3.7,Credit Card
+BK1331,2026-04-09,06:13,SUV,Mohali,Kharar,Completed,15.9,397.81,4.1,UPI
+BK1332,2026-04-26,20:49,Mini,Ambala,Zirakpur,Completed,12.0,190.27,4.2,Debit Card
+BK1333,2026-06-09,07:53,Mini,Zirakpur,Mohali,Cancelled,12.7,225.69,3.7,UPI
+BK1334,2026-06-10,22:49,Sedan,Mohali,Mohali,Completed,25.5,459.03,4.4,UPI
+BK1335,2026-03-08,11:50,SUV,Zirakpur,Kharar,No Driver Found,29.0,688.3,4.0,Credit Card
+BK1336,2026-05-08,09:00,Mini,Ludhiana,Chandigarh,Completed,8.0,165.98,3.5,Cash
+BK1337,2026-01-18,13:28,SUV,Zirakpur,Panchkula,Cancelled,14.2,394.72,3.9,Debit Card
+BK1338,2026-01-25,12:02,Premium,Mohali,Zirakpur,Completed,31.8,1011.87,3.6,UPI
+BK1339,2026-02-23,15:09,Mini,Ludhiana,Mohali,Cancelled,28.6,389.04,4.7,UPI
+BK1340,2026-02-27,19:33,SUV,Kharar,Chandigarh,No Driver Found,34.5,795.3,5.0,Debit Card
+BK1341,2026-03-08,06:22,Sedan,Chandigarh,Kharar,Completed,26.9,451.11,4.2,Cash
+BK1342,2026-04-14,12:28,Auto,Panchkula,Patiala,No Driver Found,15.0,214.9,4.2,UPI
+BK1343,2026-06-23,13:00,Mini,Zirakpur,Ambala,Completed,21.5,315.22,4.2,Credit Card
+BK1344,2026-01-24,08:23,SUV,Panchkula,Patiala,Completed,23.8,577.87,4.8,Cash
+BK1345,2026-04-24,13:53,Auto,Ambala,Patiala,Completed,4.6,115.81,4.7,Credit Card
+BK1346,2026-02-01,20:36,Premium,Mohali,Mohali,Completed,20.0,687.0,4.0,Cash
+BK1347,2026-06-24,08:50,SUV,Panchkula,Ludhiana,Completed,25.4,603.44,4.2,Debit Card
+BK1348,2026-03-27,06:27,Sedan,Mohali,Ludhiana,Completed,7.5,170.38,4.5,Debit Card
+BK1349,2026-05-31,20:07,SUV,Panchkula,Kharar,Completed,27.8,664.58,3.5,Credit Card
+BK1350,2026-05-07,07:34,Auto,Chandigarh,Zirakpur,Completed,21.3,260.71,4.8,UPI
+BK1351,2026-06-04,19:31,SUV,Chandigarh,Ludhiana,Cancelled,33.4,751.34,5.0,Debit Card
+BK1352,2026-05-10,19:42,Mini,Ludhiana,Patiala,Completed,3.4,86.36,4.7,Credit Card
+BK1353,2026-01-17,21:03,Premium,Chandigarh,Ludhiana,Completed,10.8,415.91,3.4,Credit Card
+BK1354,2026-04-14,10:53,SUV,Ludhiana,Patiala,Completed,21.9,520.38,3.0,UPI
+BK1355,2026-06-10,19:30,SUV,Chandigarh,Panchkula,Completed,11.8,292.75,4.5,Debit Card
+BK1356,2026-05-17,21:17,Mini,Chandigarh,Mohali,Completed,25.6,351.43,3.7,Credit Card
+BK1357,2026-02-12,12:09,SUV,Chandigarh,Mohali,Completed,27.0,597.44,4.3,UPI
+BK1358,2026-06-25,12:32,Sedan,Mohali,Zirakpur,Completed,5.4,139.43,4.9,Cash
+BK1359,2026-02-08,21:18,SUV,Zirakpur,Ludhiana,No Driver Found,19.0,464.68,3.7,Debit Card
+BK1360,2026-06-19,09:28,Mini,Ludhiana,Ludhiana,Completed,18.8,301.9,3.9,UPI
+BK1361,2026-01-26,07:00,SUV,Panchkula,Ambala,Completed,14.2,358.63,4.3,Wallet
+BK1362,2026-04-09,20:04,Premium,Chandigarh,Chandigarh,Completed,32.8,1029.37,3.4,Credit Card
+BK1363,2026-02-19,16:41,Mini,Mohali,Panchkula,Completed,29.3,392.06,3.7,Credit Card
+BK1364,2026-06-02,07:02,Premium,Mohali,Mohali,Completed,25.0,815.5,4.1,UPI
+BK1365,2026-06-01,17:19,Sedan,Mohali,Panchkula,Completed,25.6,488.23,3.9,UPI
+BK1366,2026-01-13,10:36,Auto,Ludhiana,Mohali,Completed,17.2,183.54,4.4,Wallet
+BK1367,2026-03-01,11:29,Auto,Zirakpur,Panchkula,Completed,32.4,354.51,5.0,UPI
+BK1368,2026-05-15,14:33,SUV,Ludhiana,Kharar,No Driver Found,24.9,606.3,4.2,Debit Card
+BK1369,2026-02-26,17:34,Auto,Panchkula,Patiala,Cancelled,26.1,323.03,3.6,UPI
+BK1370,2026-02-05,17:23,Auto,Zirakpur,Mohali,Completed,30.4,334.49,4.9,UPI
+BK1371,2026-06-22,22:09,Sedan,Kharar,Panchkula,Completed,11.0,187.05,3.2,UPI
+BK1372,2026-01-20,19:22,Sedan,Patiala,Ludhiana,Completed,28.6,495.25,3.3,Cash
+BK1373,2026-03-06,22:49,SUV,Mohali,Chandigarh,Completed,8.4,301.8,3.8,Wallet
+BK1374,2026-01-08,22:13,Auto,Ludhiana,Kharar,Completed,13.4,181.05,3.9,UPI
+BK1375,2026-05-24,14:39,Auto,Kharar,Kharar,Completed,13.1,176.91,3.8,UPI
+BK1376,2026-05-22,07:44,Auto,Ambala,Chandigarh,Completed,34.3,356.42,4.1,UPI
+BK1377,2026-04-25,12:08,Sedan,Ludhiana,Panchkula,Completed,30.3,495.36,4.3,Cash
+BK1378,2026-05-23,16:45,Auto,Chandigarh,Ludhiana,Completed,25.1,291.45,4.7,Cash
+BK1379,2026-04-02,09:25,Mini,Patiala,Zirakpur,No Driver Found,26.0,326.34,4.2,Debit Card
+BK1380,2026-04-08,18:33,Sedan,Chandigarh,Chandigarh,Cancelled,20.5,397.03,3.8,Cash
+BK1381,2026-03-07,10:10,Mini,Zirakpur,Panchkula,Completed,33.3,428.43,4.7,Cash
+BK1382,2026-02-01,11:17,Sedan,Patiala,Chandigarh,Completed,18.4,345.38,3.7,UPI
+BK1383,2026-03-27,15:35,Sedan,Ludhiana,Chandigarh,Cancelled,14.6,241.86,3.2,Wallet
+BK1384,2026-02-20,14:37,Sedan,Panchkula,Mohali,Completed,7.4,171.15,4.8,
+BK1385,2026-06-02,07:16,SUV,Kharar,Panchkula,Cancelled,27.9,628.35,4.7,UPI
+BK1386,2026-03-04,10:24,Sedan,Panchkula,Zirakpur,Completed,26.2,404.95,3.7,Credit Card
+BK1387,2026-05-05,11:57,Sedan,Ludhiana,Patiala,Cancelled,14.7,304.05,3.9,Cash
+BK1388,2026-05-30,17:22,Mini,Zirakpur,Mohali,Completed,2.8,124.63,3.6,Cash
+BK1389,2026-02-27,15:21,Sedan,Chandigarh,Chandigarh,Cancelled,29.7,543.74,4.3,Cash
+BK1390,2026-02-27,11:26,Mini,Patiala,Patiala,No Driver Found,2.4,95.84,5.0,Debit Card
+BK1391,2026-03-27,13:33,Mini,Panchkula,Ambala,Completed,25.2,342.05,4.5,UPI
+BK1392,2026-02-18,17:44,SUV,Ludhiana,Patiala,Completed,34.0,800.15,4.7,Debit Card
+BK1393,2026-06-29,12:09,SUV,Panchkula,Chandigarh,No Driver Found,16.4,458.6,4.6,Credit Card
+BK1394,2026-06-19,18:16,SUV,Ludhiana,Chandigarh,Completed,9.8,299.42,4.1,Cash
+BK1395,2026-03-11,19:01,Sedan,Chandigarh,Ludhiana,Cancelled,25.3,419.89,4.7,Cash
+BK1396,2026-01-15,16:00,Sedan,Patiala,Panchkula,Completed,29.0,492.52,4.5,UPI
+BK1397,2026-02-23,09:50,Auto,Kharar,Panchkula,Completed,20.0,282.57,4.9,Debit Card
+BK1398,2026-04-11,16:39,Sedan,Chandigarh,Mohali,Completed,33.9,576.63,3.8,Cash
+BK1399,2026-01-08,16:35,Sedan,Panchkula,Zirakpur,Completed,3.7,42.38,3.1,UPI
+BK1400,2026-02-22,22:58,Mini,Kharar,Mohali,Completed,18.7,237.68,4.7,Cash
+BK1401,2026-03-01,12:39,Sedan,Ludhiana,Kharar,Completed,25.7,444.89,4.3,Wallet
+BK1402,2026-04-18,08:53,Sedan,Kharar,Chandigarh,Completed,30.5,553.4,3.9,Cash
+BK1403,2026-01-05,07:54,Sedan,Ludhiana,Patiala,Completed,7.9,181.67,4.0,Wallet
+BK1404,2026-04-13,20:23,SUV,Chandigarh,Ambala,Completed,28.4,694.36,5.0,UPI
+BK1405,2026-01-06,10:55,Sedan,Panchkula,Chandigarh,Cancelled,20.2,359.85,3.7,
+BK1406,2026-04-19,06:57,SUV,Zirakpur,Chandigarh,No Driver Found,15.1,352.89,3.6,UPI
+BK1407,2026-04-26,09:46,Auto,Panchkula,Mohali,Completed,6.3,90.71,4.1,Cash
+BK1408,2026-04-04,08:51,Auto,Ludhiana,Ambala,Cancelled,30.6,354.62,,UPI
+BK1409,2026-02-16,16:16,SUV,Mohali,Ambala,Completed,7.2,250.55,5.0,UPI
+BK1410,2026-04-09,18:42,Premium,Patiala,Ambala,Completed,12.2,440.22,4.5,Wallet
+BK1411,2026-02-24,07:08,Mini,Ambala,Mohali,No Driver Found,11.6,180.42,3.4,Debit Card
+BK1412,2026-06-17,07:52,Mini,Zirakpur,Chandigarh,Completed,30.8,486.72,5.0,Credit Card
+BK1413,2026-02-21,14:08,Mini,Kharar,Mohali,Completed,24.2,309.57,4.1,UPI
+BK1414,2026-05-24,13:16,SUV,Zirakpur,Panchkula,Cancelled,28.3,682.52,3.6,UPI
+BK1415,2026-01-13,06:24,Auto,Patiala,Panchkula,Completed,10.3,90.58,3.5,UPI
+BK1416,2026-04-24,16:39,Mini,Kharar,Mohali,Cancelled,22.6,342.79,4.6,Credit Card
+BK1417,2026-05-04,15:24,Premium,Patiala,Ambala,Cancelled,20.9,692.89,4.2,Wallet
+BK1418,2026-04-16,12:34,Mini,Kharar,Ludhiana,Completed,29.5,414.05,4.3,Cash
+BK1419,2026-06-07,08:49,Premium,Zirakpur,Chandigarh,Cancelled,31.9,990.91,4.8,UPI
+BK1420,2026-05-27,10:43,Sedan,Kharar,Mohali,Completed,2.4,113.27,3.7,Cash
+BK1421,2026-05-25,17:50,Mini,Kharar,Mohali,Completed,24.2,317.68,4.9,UPI
+BK1422,2026-04-30,11:33,Sedan,Mohali,Mohali,Completed,3.7,107.62,3.8,UPI
+BK1423,2026-03-04,17:18,Sedan,Panchkula,Ludhiana,Cancelled,20.1,382.55,5.0,Credit Card
+BK1424,2026-01-19,10:43,Sedan,Panchkula,Ludhiana,Completed,11.5,231.74,4.4,Credit Card
+BK1425,2026-04-02,22:16,Sedan,Ambala,Kharar,Completed,12.1,261.01,3.6,UPI
+BK1426,2026-02-27,15:56,Auto,Ambala,Panchkula,Completed,13.6,171.23,3.0,UPI
+BK1427,2026-03-31,22:46,Sedan,Ludhiana,Patiala,Completed,22.5,409.19,4.5,Wallet
+BK1428,2026-04-27,17:15,Sedan,Ludhiana,Ambala,Completed,13.0,276.13,3.9,UPI
+BK1429,2026-03-03,13:30,SUV,Ludhiana,Zirakpur,Completed,26.2,615.25,4.0,UPI
+BK1430,2026-01-23,22:22,SUV,Mohali,Ludhiana,Completed,15.3,381.1,4.5,UPI
+BK1431,2026-05-07,10:53,Sedan,Ambala,Patiala,Completed,4.3,121.19,4.7,UPI
+BK1432,2026-05-17,21:05,Sedan,Patiala,Ludhiana,Cancelled,27.9,518.38,4.8,UPI
+BK1433,2026-05-20,13:24,Mini,Ludhiana,Ambala,Completed,11.4,189.7,3.5,Debit Card
+BK1434,2026-05-09,17:14,Mini,Ludhiana,Zirakpur,Completed,16.3,224.48,4.9,UPI
+BK1435,2026-02-27,14:44,SUV,Zirakpur,Kharar,No Driver Found,24.6,602.04,3.8,Cash
+BK1436,2026-05-02,20:31,Mini,Chandigarh,Mohali,Completed,13.0,217.71,2.9,Credit Card
+BK1437,2026-01-01,15:15,Sedan,Patiala,Kharar,No Driver Found,3.9,141.5,3.5,Cash
+BK1438,2026-02-03,12:16,SUV,Ludhiana,Ludhiana,Completed,14.3,361.55,4.2,Debit Card
+BK1439,2026-04-06,12:13,Mini,Ludhiana,Kharar,Cancelled,33.2,431.34,3.6,Debit Card
+BK1440,2026-05-06,20:52,SUV,Ludhiana,Patiala,Completed,23.2,547.08,4.1,UPI
+BK1441,2026-04-28,12:08,Sedan,Chandigarh,Chandigarh,Completed,24.2,423.98,4.3,Debit Card
+BK1442,2026-02-17,21:07,Premium,Chandigarh,Ludhiana,Completed,22.9,784.67,4.0,Cash
+BK1443,2026-03-30,12:34,Sedan,Mohali,Ludhiana,Cancelled,8.6,206.4,3.8,Wallet
+BK1444,2026-04-27,15:38,Auto,Patiala,Patiala,Completed,15.8,207.38,3.4,Cash
+BK1445,2026-05-09,22:13,SUV,Mohali,Panchkula,Completed,26.8,669.85,4.1,Wallet
+BK1446,2026-01-16,08:43,Mini,Kharar,Zirakpur,Completed,5.3,130.82,3.0,Debit Card
+BK1447,2026-03-10,18:33,SUV,Chandigarh,Mohali,Completed,11.2,320.45,3.7,UPI
+BK1448,2026-01-22,08:36,Premium,Zirakpur,Patiala,Completed,11.1,411.2,3.6,Cash
+BK1449,2026-04-03,16:39,SUV,Ambala,Zirakpur,Completed,16.3,408.14,4.0,Wallet
+BK1450,2026-03-17,17:38,Auto,Zirakpur,Ambala,Cancelled,34.4,377.46,4.0,Debit Card
+BK1451,2026-06-03,20:55,Auto,Ambala,Zirakpur,Completed,4.2,102.73,4.6,UPI
+BK1452,2026-05-24,22:03,Mini,Chandigarh,Ambala,Completed,19.1,278.52,5.0,Credit Card
+BK1453,2026-06-28,18:17,Mini,Chandigarh,Patiala,Completed,7.9,128.4,3.5,UPI
+BK1454,2026-03-27,06:15,SUV,Chandigarh,Ludhiana,Completed,34.0,761.68,5.0,UPI
+BK1455,2026-01-29,18:41,Sedan,Mohali,Ludhiana,Completed,5.7,153.76,3.7,Cash
+BK1456,2026-03-10,17:01,Auto,Patiala,Panchkula,Completed,15.3,215.25,4.2,UPI
+BK1457,2026-02-16,08:41,Premium,Ambala,Patiala,Completed,26.4,908.98,4.4,Debit Card
+BK1458,2026-04-04,07:29,Sedan,Patiala,Ambala,Completed,25.3,444.36,5.0,UPI
+BK1459,2026-05-24,18:12,Mini,Mohali,Zirakpur,Completed,16.0,240.88,3.8,Debit Card
+BK1460,2026-06-25,08:58,Auto,Mohali,Zirakpur,Cancelled,13.4,143.65,3.1,UPI
+BK1461,2026-03-26,12:45,Sedan,Panchkula,Ambala,No Driver Found,15.1,344.98,4.9,UPI
+BK1462,2026-02-08,22:28,Auto,Zirakpur,Kharar,Completed,10.7,111.97,3.6,UPI
+BK1463,2026-04-10,17:56,Sedan,Zirakpur,Panchkula,No Driver Found,8.8,231.29,3.9,UPI
+BK1464,2026-02-02,21:55,SUV,Kharar,Chandigarh,Completed,17.9,448.87,3.5,UPI
+BK1465,2026-04-11,17:46,Mini,Ludhiana,Ludhiana,Completed,10.9,165.82,3.9,UPI
+BK1466,2026-01-23,15:29,SUV,Mohali,Mohali,Completed,11.5,302.25,3.6,Cash
+BK1467,2026-01-10,12:19,Sedan,Ambala,Zirakpur,Completed,23.7,485.75,4.5,UPI
+BK1468,2026-03-10,10:00,SUV,Panchkula,Mohali,Cancelled,34.0,785.54,4.1,Cash
+BK1469,2026-04-10,22:02,Mini,Panchkula,Chandigarh,Completed,21.9,313.33,3.7,UPI
+BK1470,2026-02-03,18:13,Auto,Ludhiana,Patiala,Completed,4.5,107.17,4.6,Debit Card
+BK1471,2026-06-29,09:17,Auto,Patiala,Mohali,Completed,4.5,,4.2,Wallet
+BK1472,2026-05-18,10:24,Mini,Ludhiana,Chandigarh,Completed,33.4,450.85,3.1,Cash
+BK1473,2026-05-27,21:00,Mini,Ludhiana,Ludhiana,Completed,11.8,193.01,4.6,UPI
+BK1474,2026-04-06,19:14,Mini,Ludhiana,Ambala,Completed,5.0,97.2,4.2,UPI
+BK1475,2026-01-01,14:14,SUV,Zirakpur,Kharar,Completed,21.8,565.99,4.9,Wallet
+BK1476,2026-03-10,22:56,SUV,Mohali,Ludhiana,Cancelled,22.6,546.53,4.2,UPI
+BK1477,2026-01-04,09:11,Sedan,Kharar,Zirakpur,Cancelled,23.4,382.17,3.7,UPI
+BK1478,2026-01-16,10:36,Mini,Mohali,Chandigarh,Completed,10.8,172.06,4.0,UPI
+BK1479,2026-01-24,16:59,Sedan,Patiala,Mohali,Cancelled,2.5,113.73,4.5,UPI
+BK1480,2026-03-21,11:38,SUV,Chandigarh,Zirakpur,Completed,33.8,753.66,3.7,UPI
+BK1481,2026-01-02,19:23,Sedan,Ludhiana,Kharar,Completed,10.3,204.14,3.9,Debit Card
+BK1482,2026-05-08,16:12,Premium,Mohali,Ambala,Completed,24.3,796.74,4.0,UPI
+BK1483,2026-06-09,07:24,Mini,Patiala,Patiala,Completed,25.3,384.13,3.5,Credit Card
+BK1484,2026-03-25,12:51,SUV,Chandigarh,Zirakpur,No Driver Found,22.1,529.82,3.7,UPI
+BK1485,2026-06-01,09:58,Sedan,Chandigarh,Patiala,Completed,12.3,290.23,4.2,UPI
+BK1486,2026-05-20,13:19,Sedan,Ludhiana,Chandigarh,Completed,10.9,218.13,4.8,Wallet
+BK1487,2026-06-27,18:45,SUV,Kharar,Kharar,Completed,21.7,542.13,4.3,UPI
+BK1488,2026-06-12,15:42,SUV,Ambala,Mohali,Completed,30.6,700.84,4.1,Debit Card
+BK1489,2026-05-04,07:56,Premium,Zirakpur,Kharar,Cancelled,33.2,,3.6,Cash
+BK1490,2026-02-02,14:48,Mini,Mohali,Kharar,Completed,5.5,88.04,4.7,UPI
+BK1491,2026-06-10,08:55,Mini,Chandigarh,Panchkula,Completed,7.1,153.77,4.3,Wallet
+BK1492,2026-06-28,11:04,SUV,Mohali,Kharar,Completed,33.2,766.85,3.7,UPI
+BK1493,2026-06-20,10:53,SUV,Ambala,Kharar,Completed,26.3,610.0,4.6,
+BK1494,2026-04-11,20:22,Sedan,Zirakpur,Ludhiana,Completed,31.1,532.34,4.4,UPI
+BK1495,2026-01-12,22:08,Mini,Ambala,Zirakpur,Completed,8.7,192.75,3.7,Debit Card
+BK1276,2026-05-26,11:12,Sedan,Patiala,Panchkula,Completed,21.2,403.74,4.7,Cash
+BK1344,2026-01-24,08:23,SUV,Panchkula,Patiala,Completed,23.8,577.87,4.8,Cash
+BK1153,2026-05-14,09:55,Sedan,Ludhiana,Mohali,Completed,14.1,254.09,4.0,Debit Card
+BK1305,2026-01-27,16:22,Auto,Patiala,Ludhiana,Completed,27.4,341.82,3.5,Debit Card
+BK1147,2026-03-27,21:10,SUV,Ludhiana,Ambala,Completed,33.1,694.88,3.9,UPI
